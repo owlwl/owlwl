@@ -1,0 +1,71 @@
+#box{
+    width: 800px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+.h1{
+    background-color: orange;
+    padding: 10px;
+    color: white;
+
+}
+.hh1{
+    color: orange;
+    padding-left: 30px;
+    font-size: large;
+    padding-top: 10px;
+}
+.d1{
+    background-color: rgba(223, 222, 222, 0.836);
+    padding-bottom: 30px;
+    
+    
+
+}
+.h2{
+    background-color: rgb(0, 128, 6);
+    padding: 10px;
+    color: white;
+}
+.hh2{
+    color: green;
+    padding-left: 30px;
+    font-size: large;
+    padding-top: 10px;
+}
+
+.d2{
+    background-color: rgba(223, 222, 222, 0.836);
+    padding-bottom: 30px;
+}
+.d3{
+    background-color: rgba(223, 222, 222, 0.836);
+    padding-bottom: 30px;
+}
+.h3{
+    background-color: purple;
+    padding: 10px;
+    color: white;
+}
+.hh3{
+    color: purple;
+    padding-left: 30px;
+    font-size: large;
+    padding-top: 10px;
+
+}
+
+span{
+    color: rgba(223, 222, 222, 0.836);
+}
+
+p{
+    padding-left: 30px;
+    
+}
